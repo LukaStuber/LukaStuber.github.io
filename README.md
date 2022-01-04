@@ -1,2 +1,2 @@
 # LukaStuber.github.io
-website
+[Link to Google](https://www.google.com)
